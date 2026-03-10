@@ -1,0 +1,14 @@
+E:\prueba2-1\prueba2-1\prueba2-1\bin\Debug\net10.0\prueba2-1.exe
+E:\prueba2-1\prueba2-1\prueba2-1\bin\Debug\net10.0\prueba2-1.deps.json
+E:\prueba2-1\prueba2-1\prueba2-1\bin\Debug\net10.0\prueba2-1.runtimeconfig.json
+E:\prueba2-1\prueba2-1\prueba2-1\bin\Debug\net10.0\prueba2-1.dll
+E:\prueba2-1\prueba2-1\prueba2-1\bin\Debug\net10.0\prueba2-1.pdb
+E:\prueba2-1\prueba2-1\prueba2-1\obj\Debug\net10.0\prueba2-1.GeneratedMSBuildEditorConfig.editorconfig
+E:\prueba2-1\prueba2-1\prueba2-1\obj\Debug\net10.0\prueba2-1.AssemblyInfoInputs.cache
+E:\prueba2-1\prueba2-1\prueba2-1\obj\Debug\net10.0\prueba2-1.AssemblyInfo.cs
+E:\prueba2-1\prueba2-1\prueba2-1\obj\Debug\net10.0\prueba2-1.csproj.CoreCompileInputs.cache
+E:\prueba2-1\prueba2-1\prueba2-1\obj\Debug\net10.0\prueba2-1.dll
+E:\prueba2-1\prueba2-1\prueba2-1\obj\Debug\net10.0\refint\prueba2-1.dll
+E:\prueba2-1\prueba2-1\prueba2-1\obj\Debug\net10.0\prueba2-1.pdb
+E:\prueba2-1\prueba2-1\prueba2-1\obj\Debug\net10.0\prueba2-1.genruntimeconfig.cache
+E:\prueba2-1\prueba2-1\prueba2-1\obj\Debug\net10.0\ref\prueba2-1.dll
